@@ -1,0 +1,11 @@
+1. Student Profile
+Student name: B. Swetha
+Roll number: 723127305173
+Course and Year: B.Sc., final year
+Department: Computer Science
+Contact info: +919392958303
+Parent/Gaurdian details: +917013331893
+
+2. Academics
+Attendance%: 81%
+Semester results: 7.2
